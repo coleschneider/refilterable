@@ -1,7 +1,6 @@
 .DS_Store
 .cache/
 node_modules/
-dist/
 coverage/
 .rpt2_cache/
 yarn-error.log
